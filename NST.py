@@ -1,6 +1,6 @@
+# In[Basic preparation]
 #Transferring learning basing on the VGG-19w, working as the
 #Neural Style Transfer #
-# In[Basic preparation]
 import os
 import sys
 import scipy.io
